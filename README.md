@@ -1,2 +1,2 @@
 # PracticeNo2
-Second practice for university
+*Second practice for university*
